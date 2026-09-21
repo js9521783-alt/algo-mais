@@ -1,0 +1,1 @@
+# Algo Mais Buffet\n\nSite institucional do Algo Mais Buffet, em Itaberaba — Bahia.\n\nInclui apresentação do espaço, serviços, avaliações, contatos e carrossel com fotografias de eventos.\n\n## Arquivos principais\n\n- index.html\n- styles.css\n- script.js\n- assets/\n\nDesenvolvido como uma página estática responsiva.\n
